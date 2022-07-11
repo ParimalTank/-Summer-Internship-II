@@ -16,11 +16,9 @@ I contributed in fronted part of the Application.
 
 Like ,
 
-i Develoap the functionality of the Uplaod , Mesh , Solve , Request
-
-
-
-
+- I Develoap the functionality of the Uplaod , Mesh , Solve , Request .
+- Also the Billing page of the Project.
+- Also implemented the Job Delete , Update , Download , Upload functionality.
 
 SS of the Project
 
